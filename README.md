@@ -1,2 +1,2 @@
 # samp-fresh
-samp launcher for pc, fixed rpc.
+Custom SA:MP Launcher For PC, i don't own this code, just fix some bug on it and publish it.
